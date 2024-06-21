@@ -1,1 +1,2 @@
 # Event-Planner
+<git init>
